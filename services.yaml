@@ -1,0 +1,11 @@
+services:
+  api_gateway: http://gitdigital-api-gateway.internal
+  auth: http://gitdigital-auth.internal
+  user_service: http://gitdigital-user-service.internal
+  model_registry: http://gitdigital-model-registry.internal
+  model_storage: http://gitdigital-model-storage.internal
+  sandbox: http://gitdigital-sandbox.internal
+  gpu_scheduler: http://gitdigital-gpu-scheduler.internal
+  job_worker: http://gitdigital-job-worker.internal
+  billing: http://gitdigital-billing.internal
+  marketplace: http://gitdigital-marketplace.internal
